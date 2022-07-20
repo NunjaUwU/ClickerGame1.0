@@ -1,0 +1,16 @@
+E:\Programming\GitHub\CGFFF\CG\bin\Release\CG.exe.config
+E:\Programming\GitHub\CGFFF\CG\bin\Release\CG.exe
+E:\Programming\GitHub\CGFFF\CG\bin\Release\CG.pdb
+E:\Programming\GitHub\CGFFF\CG\obj\Release\CG.csproj.AssemblyReference.cache
+E:\Programming\GitHub\CGFFF\CG\obj\Release\CG.csproj.SuggestedBindingRedirects.cache
+E:\Programming\GitHub\CGFFF\CG\obj\Release\MainWindow.g.cs
+E:\Programming\GitHub\CGFFF\CG\obj\Release\App.g.cs
+E:\Programming\GitHub\CGFFF\CG\obj\Release\CG_MarkupCompile.cache
+E:\Programming\GitHub\CGFFF\CG\obj\Release\CG_MarkupCompile.lref
+E:\Programming\GitHub\CGFFF\CG\obj\Release\MainWindow.baml
+E:\Programming\GitHub\CGFFF\CG\obj\Release\CG.g.resources
+E:\Programming\GitHub\CGFFF\CG\obj\Release\CG.Properties.Resources.resources
+E:\Programming\GitHub\CGFFF\CG\obj\Release\CG.csproj.GenerateResource.cache
+E:\Programming\GitHub\CGFFF\CG\obj\Release\CG.csproj.CoreCompileInputs.cache
+E:\Programming\GitHub\CGFFF\CG\obj\Release\CG.exe
+E:\Programming\GitHub\CGFFF\CG\obj\Release\CG.pdb
